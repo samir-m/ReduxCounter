@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.App h3 {
+    margin: 20px 0;
+}
+
+.output {
+    background: orangered;
+    color: #fff;
+    padding: 10px;
+}
+
+
+.save-result {
+    background: green;
+}
+
+.App button {
+    margin: 10px;
+}
+
+.btn {
+    font-size: 13px;
+
+}
